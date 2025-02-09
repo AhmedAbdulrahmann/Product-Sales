@@ -22,11 +22,11 @@ What showed:
 https://github.com/AhmedAbdulrahmann
 
 # Files
-- excel Dashboard.xlsx - The main Excel file containing the sales dashboard.
+- PowerBi Dashboard.xlsx - The main Excel file containing the sales dashboard.
 - Dashboard.png - A snapshot of the dashboard for quick reference.
 
 # Requirements
-- Microsoft Excel: The dashboard uses pivot tables and slicers, so Excel 2021 or later is recommended.
+- Microsoft PowerBi: The dashboard uses pivot tables and slicers, so PowerBi or later is recommended.
 
 # License
 This project is open-source and available under the MIT License.
