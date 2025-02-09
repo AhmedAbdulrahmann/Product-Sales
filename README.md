@@ -33,7 +33,7 @@ https://github.com/AhmedAbdulrahmann
 # Requirements
 - Microsoft Excel: the dashboard uses Power Query and slicing, so it is recommended to use Excel 2021 .
 - Microsoft PowerBi: the dashboard uses Power Query and slicing, so it is recommended to use PowerBi 2025 .
-- Microsoft PowerBi: the dashboard uses pivot tables and slicing, so it is recommended to use SQL 2025 .
+- Microsoft SQL: the dashboard uses SQL queries and slicing, so it is recommended to use SQL 2025 .
 
 # License
 This project is open-source and available under the MIT License.
